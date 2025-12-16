@@ -1,5 +1,5 @@
 
-# 🧮 CRUD avec DAO Générique
+# 🧮 Expressions Lambda en Java
 ## Description
 Ce projet illustre la conception d’une application Java orientée objet et fonctionnelle:
 
